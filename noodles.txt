@@ -1,0 +1,10 @@
+Ingredients:
+ - 2 cups water 
+ - 1 packet noodles
+
+Directions:
+ 1. Boil water
+ 2. Add noodles to it 
+ 3. Add tastemaker
+ 4. Stir for 4-5 minutes
+ 5. Serve hot
